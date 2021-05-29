@@ -1392,22 +1392,22 @@
     "poisonResistance"
     "witherResistance"
   ],
-  "pavocado.exoticbirds.entity.EntityPigeon": [
+  "pavocado.exoticbirds.entity.Birds.EntityPigeon": [
     "fly|true"
   ],
-  "pavocado.exoticbirds.entity.EntitySeagull": [
+  "pavocado.exoticbirds.entity.Birds.EntitySeagull": [
     "fly|true"
   ],
-  "pavocado.exoticbirds.entity.EntitySwan": [
+  "pavocado.exoticbirds.entity.Birds.EntitySwan": [
     "fly|true"
   ],
-  "pavocado.exoticbirds.entity.EntityToucan": [
+  "pavocado.exoticbirds.entity.Birds.EntityToucan": [
     "fly|true"
   ],
-  "pavocado.exoticbirds.entity.EntityVulture": [
+  "pavocado.exoticbirds.entity.Birds.EntityVulture": [
     "fly|true"
   ],
-  "pavocado.exoticbirds.entity.EntityWoodpecker": [
+  "pavocado.exoticbirds.entity.Birds.EntityWoodpecker": [
     "fly|true"
   ],
   "sekwah.mods.NarutoMod.Entitys.EntityPuppet": [

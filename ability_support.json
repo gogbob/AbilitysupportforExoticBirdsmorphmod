@@ -1638,8 +1638,124 @@
   "noppes.animalbikes.entity.types.EntityRidableFlying": [
     "fly|true"
   ],
+  "pavocado.exoticbirds.entity.Birds.EntityBluejay": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityBooby": [
+    "fly|true"
+  ],
   "pavocado.exoticbirds.entity.Birds.EntityBudgie": [
     "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityCardinal": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityCassowary": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityCrane": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityDuck": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityGouldianfinch": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityHeron": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityHummingbird": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityKingfisher": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityKookaburra": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityLyrebird": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityMagpie": [
+    "fly|true",
+    "fear|9,0.6D,net.minecraft.entity.passive.EntityVillager"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityOwl": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityParrot": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityPelican": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityPigeon": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityRoadrunner": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityRobin": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntitySeagull": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityToucan": [
+    "fly|true"
+  ],
+
+  "pavocado.exoticbirds.entity.Birds.EntityVulture": [
+    "fly|true",
+    "hostile"
+  ],
+  "pavocado.exoticbirds.entity.Birds.EntityWoodpecker": [
+    "fly|true"
+  ],
+  "pavocado.exoticbirds.entity.Birds.Phoenix.EntityCloudPhoenix": [
+    "fly|true",
+    "hostile"
+  ],
+    "pavocado.exoticbirds.entity.Birds.Phoenix.EntityDesertPhoenix": [
+    "fly|true",
+    "hostile",
+  ],
+    "pavocado.exoticbirds.entity.Birds.Phoenix.EntityEnderPhoenix": [
+    "fly|true",
+    "hostile",
+    "posionResistance",
+    "waterAllergy"
+  ],
+  "pavocado.exoticbirds.entity.Birds.Phoenix.EntityFirePhoenix": [
+    "fly|true",
+    "hostile",
+    "fireImmunity",
+    "waterAllergy"
+  ],
+  "pavocado.exoticbirds.entity.Birds.Phoenix.EntityNetherPhoenix": [
+    "fly|true",
+    "hostile",
+    "fireImmunity",
+    "waterAllergy"
+  ],
+  "pavocado.exoticbirds.entity.Birds.Phoenix.EntitySnowPhoenix": [
+    "fly|true",
+    "hostile",
+    "poisonResistance"
+  ],
+  "pavocado.exoticbirds.entity.Birds.Phoenix.EntityTwilightPhoenix": [
+    "fly|true",
+    "hostile",
+    "poisonResistance"
+  ],
+  "pavocado.exoticbirds.entity.Birds.Phoenix.EntityWaterPhoenix": [
+    "fly|true",
+    "hostile",
+    "poisonResistance",
+    "sunburn",
+    "swim|false,1.8F,0.6F,true"
+
   ],
   "sekwah.mods.NarutoMod.Entitys.EntityPuppet": [
     "fly|false"

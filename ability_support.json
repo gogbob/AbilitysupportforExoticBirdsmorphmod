@@ -1638,6 +1638,9 @@
   "noppes.animalbikes.entity.types.EntityRidableFlying": [
     "fly|true"
   ],
+  "pavocado.exoticbirds.entity.Birds.EntityBudgie": [
+    "fly|true"
+  ],
   "sekwah.mods.NarutoMod.Entitys.EntityPuppet": [
     "fly|false"
   ],
